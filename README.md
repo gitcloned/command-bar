@@ -1,2 +1,8 @@
 # command-bar
-Simple customizable Command Bar Control
+Simple customizable Java-Script command bar control
+
+# Features
+
+ * Customizable groups, action buttons
+ * Integration with font awesome
+
