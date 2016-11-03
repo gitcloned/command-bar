@@ -1,0 +1,26 @@
+{
+  "name": "command-bar",
+  "license": "MIT",
+  "authors": [
+    "gitcloned"
+  ],
+  "description": "Simple customizable Java-Script command bar control",
+  "homepage": "https://github.com/gitcloned/command-bar",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "command-bar",
+    "jquery-plugin",
+    "command",
+    "action"
+  ],
+  "main": "src/CommandBar.js",
+  "dependencies": {
+    "jquery": "1"
+  },
+  "ignore": [
+    "npm-debug.log",
+    "bower_components",
+    "node_modules"
+  ]
+}
